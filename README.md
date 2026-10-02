@@ -1,4 +1,9 @@
 # JPADemo
+
+**Stack:** Java, EclipseLink, JPA, MySQL
+
+**Skills:** ORM
+
 Experiments with JPA + EclipseLink
 
 ## Import this project in Eclipse
